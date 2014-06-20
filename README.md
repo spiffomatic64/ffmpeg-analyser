@@ -17,3 +17,5 @@ FFmpeg README
 --------------------
 
 * See the INSTALL file.
+
+https://trac.ffmpeg.org/wiki/CompilationGuide/RaspberryPi
